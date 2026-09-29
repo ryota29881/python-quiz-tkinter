@@ -59,8 +59,8 @@ Excelから問題データを変換する機能を使用する場合は、`panda
 ### 1. リポジトリを取得
 
 ```bash
-git clone <GitHubリポジトリのURL>
-cd python-quiz-app
+git clone https://github.com/ryota29881/python-quiz-tkinter
+cd python-quiz-tkinter
 ```
 
 ### 2. 仮想環境を作成
