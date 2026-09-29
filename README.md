@@ -27,7 +27,7 @@ Python・Tkinterで制作したクイズアプリを、職業訓練校での中�
 ## ディレクトリ構成
 
 ```text
-python-quiz-app/
+python-quiz-tkinter/
 ├── main.py                    # アプリ起動
 ├── quiz_select.py             # 4択クイズ
 ├── quiz_code.py               # コード作成クイズ
